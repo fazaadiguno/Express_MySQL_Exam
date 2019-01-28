@@ -1,0 +1,16 @@
+{
+  "name": "soal3",
+  "version": "1.0.0",
+  "description": "jc07 soal3 backend exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faza adi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "github:mysqljs/mysql"
+  }
+}
